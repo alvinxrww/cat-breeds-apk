@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Lavender">#E6E6FA</color>
+    <color name="Lilac">#C8A2C8</color>
+    <color name="Violet">#8A2BE2</color>
+    <color name="Amethyst">#9966CC</color>
+    <color name="Plum">#8E4585</color>
+    <color name="Mauve">#E0B0FF</color>
+    <!-- Light theme colors -->
+    <color name="colorPrimary">#9C27B0</color> <!-- Primary color -->
+    <color name="colorPrimaryDark">#7B1FA2</color> <!-- Darker shade of primary color -->
+    <color name="colorAccent">#FF4081</color> <!-- Accent color -->
+    <color name="colorAccentDark">#D81B60</color> <!-- Darker shade of accent color -->
+    <!-- Add any other light theme colors -->
+
+    <!-- Dark theme colors -->
+    <color name="colorPrimaryNight">#BA68C8</color> <!-- Primary color for night theme -->
+    <color name="colorPrimaryDarkNight">#9C27B0</color> <!-- Darker shade of primary color for night theme -->
+    <color name="colorAccentNight">#FF80AB</color> <!-- Accent color for night theme -->
+    <color name="colorAccentDarkNight">#D81B60</color> <!-- Darker shade of accent color for night theme -->
+    <!-- Add any other dark theme colors -->
+</resources>

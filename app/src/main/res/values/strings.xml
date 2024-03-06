@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Ras Kucing</string>
+
+    <string name="cat_name">Nama Kucing</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="me">About Me</string>
+    <string name="search">Pencarian</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="my_name">Alvin Xavier Rakha Wardhana</string>
+    <string name="my_email">alvinxrw@gmail.com</string>
+    <string name="app_version">1.0</string>
+
+    <string-array name="data_name">
+        <item>Maine Coon</item>
+        <item>Ragdoll</item>
+        <item>Kucing Persia</item>
+        <item>Kucing Siberia</item>
+        <item>Bulu Pendek Britania</item>
+        <item>Anggora Turki</item>
+        <item>Kucing Somali</item>
+        <item>Manx</item>
+        <item>Ragamuffin</item>
+        <item>Kucing Telinga Ikal Amerika</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Memiliki ciri khas bulu panjang, tubuh yang besar dan berotot, serta ekor yang tebal dan panjang. Maine Coon sering dianggap sebagai "kucing hutan" Amerika Utara karena diperkirakan berasal dari kucing-kucing yang dibawa oleh para imigran ke wilayah Maine, Amerika Serikat, dan kemudian berkembang secara alami di sana.
+
+            Maine Coon memiliki wajah yang lebar dengan telinga yang berbulu dan mata yang besar dan bulat. Mereka juga dikenal dengan kepribadian yang ramah, cerdas, dan penuh kasih. Maine Coon adalah kucing yang suka berinteraksi dengan manusia dan biasanya ramah terhadap anak-anak dan hewan peliharaan lainnya.
+
+            Meskipun ukuran mereka yang besar, Maine Coon memiliki gerakan yang anggun dan elegan. Mereka adalah kucing yang aktif dan suka bermain, tetapi juga dapat menikmati waktu bersantai di sekitar rumah. Maine Coon cenderung memiliki harapan hidup yang panjang, dan dengan perawatan yang baik, mereka bisa hidup hingga 12-15 tahun atau lebih.
+
+            Perawatan bulu Maine Coon membutuhkan penyisiran rutin untuk mencegah kusut dan menjaga kebersihan. Selain itu, mereka juga membutuhkan perhatian kesehatan rutin, termasuk pemberian makanan berkualitas tinggi dan kunjungan ke dokter hewan secara teratur.
+        </item>
+
+        <item>
+            Ras kucing yang memukau dengan keindahan bulu panjang mereka, mata biru yang intens, dan tubuh yang besar dan berotot. Ragdoll dikenal dengan kepribadian yang lembut, santai, dan sangat ramah terhadap manusia. Nama "Ragdoll" sendiri berasal dari kebiasaan mereka untuk mengendurkan otot-otot saat dipeluk, mirip dengan boneka kain yang lemas.
+
+            Mereka memiliki bulu yang panjang, lembut, dan tebal yang membutuhkan perawatan rutin, termasuk penyisiran harian untuk mencegah kusut dan menjaga kebersihan. Ragdoll memiliki tubuh yang besar dengan tulang yang kuat, dan meskipun ukuran mereka bisa mencapai hingga 20 pon (sekitar 9 kg) untuk jantan dan 15 pon (sekitar 6.8 kg) untuk betina, mereka memiliki gerakan yang anggun dan elegan.
+
+            Selain itu, Ragdoll adalah kucing yang cerdas dan suka bermain. Mereka cenderung mengikuti pemiliknya di sekitar rumah dan menunjukkan minat yang besar pada interaksi manusia. Ragdoll juga dikenal sebagai kucing yang bersahabat dengan anak-anak dan hewan peliharaan lainnya.
+
+            Dalam hal kesehatan, Ragdoll adalah ras yang relatif sehat, meskipun mereka memiliki kecenderungan genetik terhadap beberapa masalah kesehatan tertentu seperti penyakit jantung kongenital. Perawatan kesehatan yang teratur, makanan berkualitas tinggi, dan lingkungan yang aman akan membantu memastikan kesehatan yang optimal bagi kucing Ragdoll Anda.
+
+        </item>
+
+        <item>
+            Kucing Persia adalah salah satu ras kucing yang paling populer dan dikenal di seluruh dunia. Mereka memiliki ciri khas bulu panjang, wajah datar, dan hidung pesek. Karakteristik fisik ini memberi mereka penampilan yang elegan dan anggun. Kucing Persia dikenal dengan kepribadian yang tenang, lembut, dan penuh kasih, membuat mereka menjadi pilihan yang populer sebagai hewan peliharaan di banyak rumah.
+
+            Bulu panjang yang dimiliki oleh Kucing Persia membutuhkan perawatan rutin yang meliputi penyisiran setiap hari untuk mencegah kusut dan kekotoran. Selain itu, mereka juga membutuhkan perhatian khusus terhadap kesehatan mata dan hidung mereka karena cenderung memiliki masalah pernapasan dan air mata yang lebih sering.
+
+            Meskipun memiliki kepribadian yang tenang, Kucing Persia tetap aktif dan suka bermain, meskipun tidak seaktif beberapa ras kucing lainnya. Mereka cenderung menjadi teman yang setia dan dekat dengan pemiliknya, menunjukkan kasih sayang dan kesetiaan yang besar. Kucing Persia juga dikenal sebagai kucing yang cocok untuk kehidupan di apartemen karena kecenderungan mereka yang lebih suka tinggal di dalam ruangan.
+        </item>
+
+        <item>
+            Berasal dari wilayah Siberia di Rusia, Mereka dikenal dengan bulu tebal, tubuh yang besar, dan wajah yang lebar dengan telinga yang tegak. Karakteristik fisik ini membantu mereka bertahan di iklim yang dingin di Siberia. Bulu mereka memiliki dua lapisan yang tebal, yang membantu melindungi mereka dari suhu yang rendah.
+
+            Selain memiliki penampilan yang menarik, Kucing Siberia juga dikenal dengan kepribadian yang ramah, tenang, dan cerdas. Mereka biasanya memiliki ikatan yang kuat dengan keluarga mereka dan cenderung bermain dengan anak-anak dengan penuh kesabaran. Meskipun bersahabat, mereka juga memiliki naluri pemburu yang kuat dan sering kali tertarik pada permainan yang melibatkan mengejar mainan atau mencari tanda-tanda aktivitas.
+
+            Kucing Siberia juga dikenal sebagai kucing yang sehat dan tangguh, mampu bertahan dalam berbagai kondisi lingkungan. Meskipun mereka memiliki bulu tebal, perawatan mereka tidak memerlukan banyak usaha, karena mereka dapat mengurus bulu mereka sendiri dengan rajin menjilat dan menyisir diri mereka sendiri.
+        </item>
+
+        <item>
+            Kucing Bulu Pendek Britania, atau yang juga dikenal sebagai British Shorthair, adalah salah satu ras kucing yang paling populer di Inggris dan banyak dihargai di seluruh dunia. Mereka memiliki tubuh yang besar dan berotot dengan bulu pendek, tebal, dan halus yang memberikan kesan kemewahan. Karakteristik wajahnya yang bulat dengan pipi yang gemuk memberikan mereka penampilan yang manis dan menggemaskan.
+
+            British Shorthair dikenal dengan kepribadian yang santai, stabil, dan tenang. Mereka adalah kucing yang cenderung tidak terlalu aktif, tetapi masih suka bermain dan berinteraksi dengan keluarga mereka. Mereka cenderung menjadi teman yang setia dan dekat dengan pemiliknya, meskipun tidak terlalu memerlukan perhatian konstan.
+
+            Dalam hal kesehatan, British Shorthair adalah ras yang kuat dan sehat, dengan harapan hidup yang panjang. Meskipun mereka membutuhkan perawatan bulu yang minimal, penyisiran rutin masih diperlukan untuk menjaga bulu mereka tetap bersih dan bebas dari kusut.
+
+            British Shorthair sangat cocok untuk kehidupan di apartemen atau rumah, karena kepribadian mereka yang tenang dan kecenderungan untuk tinggal di dalam ruangan. Mereka juga baik dengan anak-anak dan hewan peliharaan lainnya, menjadikan mereka pilihan yang bagus untuk keluarga.
+        </item>
+
+        <item>
+            Kucing Anggora Turki dikenal dengan bulu panjang, halus, dan lebat yang memberikan kesan kemewahan. Mereka berasal dari wilayah Anatolia di Turki dan telah menjadi favorit di seluruh dunia karena kecantikan mereka yang menakjubkan dan kepribadian yang ramah. Kucing Anggora Turki adalah salah satu ras kucing yang paling terkenal dan dihargai di dunia.
+
+            Selain bulunya yang memukau, kucing Anggora Turki memiliki ciri khas wajah yang anggun dengan telinga yang panjang dan mata yang besar. Mereka juga dikenal dengan kepribadian yang aktif, cerdas, dan penuh kasih. Kucing Anggora Turki adalah kucing yang suka berinteraksi dengan manusia dan sering kali menunjukkan afeksi yang besar terhadap pemiliknya.
+
+            Meskipun mereka memiliki bulu panjang, perawatan bulu Anggora Turki relatif mudah dilakukan. Penyisiran rutin diperlukan untuk mencegah kusut dan membantu mengurangi masalah bulu yang tertelan. Selain itu, pembersihan telinga dan kuku secara teratur juga dianjurkan untuk menjaga kesehatan mereka.
+
+            Dalam hal kesehatan, kucing Anggora Turki umumnya sehat dan tahan terhadap berbagai penyakit. Namun, seperti halnya dengan semua kucing, perawatan kesehatan rutin dan pemberian makanan berkualitas tinggi sangat penting untuk memastikan kesehatan yang optimal.
+        </item>
+
+        <item>
+            kucing yang menarik dan elegan, yang terkenal dengan bulu panjang dan lebat serta ekor yang sangat berlimpah. Mereka memiliki bulu yang berwarna cerah dan memiliki gradasi yang indah, memberikan kesan keanggunan dan kecantikan alami.
+
+            Selain penampilannya yang menakjubkan, Kucing Somali juga dikenal dengan kepribadian yang cerdas, aktif, dan ramah. Mereka suka bermain dan berinteraksi dengan pemiliknya, dan sering menunjukkan minat pada berbagai permainan dan mainan.
+
+            Meskipun memiliki bulu panjang, perawatan bulu Somali relatif mudah. Penyisiran bulu secara teratur untuk mencegah kusut dan menjaga kebersihan sudah cukup. Selain itu, perhatian terhadap pembersihan telinga dan kuku secara rutin juga penting untuk menjaga kesehatan mereka.
+
+            Kucing Somali umumnya sehat dan tahan terhadap berbagai penyakit. Namun, perawatan kesehatan rutin dan pemberian makanan berkualitas tinggi tetap diperlukan untuk memastikan kesehatan yang optimal.
+        </item>
+
+        <item>
+            Salah satu ciri paling mencolok dari Kucing Manx adalah ekor mereka yang pendek atau bahkan tidak ada ekor sama sekali, yang memberi mereka penampilan yang unik dan khas. Mereka memiliki tubuh yang padat dan bulat, dengan kaki yang kuat, memberikan kesan kekokohan dan keanggunan.
+
+            Selain ciri fisiknya, Kucing Manx juga terkenal dengan kepribadian yang ramah dan cerdas. Mereka adalah kucing yang suka bermain dan berinteraksi dengan manusia, dan sering menunjukkan tingkat kecerdasan yang tinggi dalam menanggapi lingkungan sekitarnya. Meskipun mereka aktif, mereka juga bisa tenang dan menyukai momen bersantai.
+
+            Perawatan bulu Kucing Manx relatif mudah karena mereka memiliki bulu yang pendek dan tidak memerlukan perawatan yang rumit. Namun, seperti semua kucing, mereka tetap membutuhkan perhatian terhadap kebersihan dan kesehatan secara umum.
+
+            Kucing Manx memiliki berbagai variasi warna dan pola bulu yang menarik, menambah pesona mereka sebagai hewan peliharaan yang unik dan menawan. Secara keseluruhan, Kucing Manx adalah pilihan yang menarik untuk keluarga yang mencari kucing yang memiliki karakter dan penampilan yang berbeda dari ras kucing lainnya. Mereka akan menjadi teman yang setia dan menyenangkan bagi seluruh keluarga.
+        </item>
+
+        <item>
+            Terkenal dengan bulu panjang, lembut, dan tebal serta wajah yang manis, mereka adalah kucing yang besar dengan tubuh yang berotot dan berat, memberikan kesan keanggunan dan kekuatan. Ragamuffin memiliki ciri khas bulu yang panjang dan lebat, yang seringkali terdapat di seluruh tubuh mereka termasuk ekor yang tebal.
+
+            Selain kecantikan fisiknya, Ragamuffin dikenal dengan kepribadian yang lembut, santai, dan penuh kasih. Mereka adalah kucing yang ramah dan toleran terhadap manusia serta hewan peliharaan lainnya, membuat mereka cocok untuk keluarga dengan anak-anak atau hewan peliharaan lainnya. Ragamuffin suka bermain dan berinteraksi dengan pemiliknya, tetapi juga bisa menjadi kucing yang santai dan suka bersantai di rumah.
+
+            Perawatan bulu Ragamuffin membutuhkan sedikit usaha, karena bulu mereka cenderung tidak kusut dan mudah diurus. Penyisiran rutin untuk mencegah kekotoran dan menjaga kebersihan sudah cukup. Selain itu, perhatian terhadap kebersihan telinga dan kuku juga penting untuk menjaga kesehatan mereka.
+
+            Kucing Ragamuffin umumnya sehat dan tahan terhadap berbagai penyakit. Namun, seperti semua kucing, perawatan kesehatan rutin dan pemberian makanan berkualitas tinggi sangat penting untuk memastikan kesehatan yang optimal.
+        </item>
+
+        <item>
+            Kucing Telinga Ikal Amerika, atau American Curl, adalah ras kucing yang menonjol dengan ciri khas telinga melengkung ke belakang. Telinga yang ikal ini merupakan ciri khas unik yang membuat mereka mudah dikenali. Ras ini berasal dari Amerika Serikat dan telah menjadi populer di seluruh dunia karena penampilannya yang menarik dan kepribadiannya yang ramah.
+
+            Selain telinga yang ikal, American Curl juga dikenal dengan tubuhnya yang proporsional dan bulu yang halus serta lembut. Mereka datang dalam berbagai warna dan pola bulu yang menarik, menambah pesona mereka sebagai hewan peliharaan yang menawan.
+
+            Kucing American Curl memiliki kepribadian yang ramah, cerdas, dan penuh kasih. Mereka suka berinteraksi dengan manusia dan sering kali menunjukkan minat pada permainan dan aktivitas keluarga. Selain itu, mereka juga biasanya ramah terhadap anak-anak dan hewan peliharaan lainnya.
+
+            Perawatan bulu American Curl relatif mudah, karena mereka memiliki bulu yang halus dan tidak memerlukan perawatan yang rumit. Penyisiran bulu secara teratur untuk mencegah kusut dan menjaga kebersihan sudah cukup. Perhatian terhadap kebersihan telinga dan kuku juga penting untuk menjaga kesehatan mereka.
+
+            Kucing American Curl umumnya sehat dan tahan terhadap berbagai penyakit. Namun, perawatan kesehatan rutin dan pemberian makanan berkualitas tinggi tetap penting untuk memastikan kesehatan yang optimal.
+        </item>
+
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F3xSVakUgDq6fPfiTt8b1FJ%2Ff667027bd7942f3154235720d3776c2b%2FMaine_Coon_cat_breed.jpg&amp;w=1080&amp;q=75</item>
+        <item>https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F5dPPfjE3lQ5Hb3xvuqB3x2%2F1e7d2688d4248b219d015c0a17f1480f%2Fragdoll_cat.webp&amp;w=1080&amp;q=75</item>
+        <item>https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F26gvR2TSfqEKHVldbY2aMZ%2Fbbf98ad647ece39d8f7600c37a0db32f%2Fpersian_cat__1_.jpg&amp;w=1080&amp;q=75</item>
+        <item>https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F29Vd3oPzwffzqvKavDaSMe%2Fa360d4cfdad16b04e802388f7c990e86%2Fsiberian_cat.jpg&amp;w=1080&amp;q=75</item>
+        <item>https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F6SRmODGVBJ1pM2OLLIQCgt%2F4fb6bca002aeeaa1ff4066895861cf26%2Fbritish-shorthair-cat__1_.jpg&amp;w=1080&amp;q=75</item>
+        <item>https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F6sMNqhN54DMMFdMoSpz2S6%2F400c8df515f562d017c2eb60482bc4e0%2Fturkish_angora.jpg&amp;w=1080&amp;q=75</item>
+        <item>https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F6GgzJLUGQHFJnyKR384kLE%2Fe92e6d49218c780eb7991331ddc97454%2Fsomali-cat.jpg&amp;w=1080&amp;q=75</item>
+        <item>https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F3ByEBqo9zsrhjYHn5ixdis%2Fb1051049467b6e5e779351d81eceb3e5%2FManx_cat_breed_library.jpg&amp;w=1080&amp;q=75</item>
+        <item>https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F1iR62keG0dlmjrhEHXBqAT%2Fb4cf47185db663f4738eae6d9eae143c%2Fragamuffin-cat.jpg&amp;w=1080&amp;q=75</item>
+        <item>https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F7hqiona4456t%2F7Me5kw2kdeb56vuIUw5W5P%2F8082596f2fcc2d13791e0b5ac067a1ba%2FAmerican_Curl_Cat-resize.jpg&amp;w=1080&amp;q=75</item>
+    </string-array>
+
+    <string-array name="details_link">
+        <item>https://basepaws.com/cat-breeds/maine-coon</item>
+        <item>https://basepaws.com/cat-breeds/ragdoll</item>
+        <item>https://basepaws.com/cat-breeds/persian-cat</item>
+        <item>https://basepaws.com/cat-breeds/siberian-cat</item>
+        <item>https://basepaws.com/cat-breeds/british-shorthair</item>
+        <item>https://basepaws.com/cat-breeds/turkish-angora</item>
+        <item>https://basepaws.com/cat-breeds/somali-cat</item>
+        <item>https://basepaws.com/cat-breeds/manx</item>
+        <item>https://basepaws.com/cat-breeds/ragamuffin</item>
+        <item>https://basepaws.com/cat-breeds/american-curl</item>
+    </string-array>
+</resources>
