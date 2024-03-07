@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        rvHeroes = binding.rvHeroes
+        rvHeroes = binding.rvCats
         rvHeroes.setHasFixedSize(true)
 
         list.addAll(getListCat())
