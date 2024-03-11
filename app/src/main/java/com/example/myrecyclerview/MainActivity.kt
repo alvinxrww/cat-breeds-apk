@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.myrecyclerview.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-    private lateinit var rvHeroes: RecyclerView
+    private lateinit var rvCats: RecyclerView
     private lateinit var binding: ActivityMainBinding
     private val list = ArrayList<Cat>()
 
@@ -21,8 +21,8 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        rvHeroes = binding.rvCats
-        rvHeroes.setHasFixedSize(true)
+        rvCats = binding.rvCats
+        rvCats.setHasFixedSize(true)
 
         list.addAll(getListCat())
         showRecyclerList()
@@ -36,10 +36,10 @@ class MainActivity : AppCompatActivity() {
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
             R.id.action_list -> {
-                rvHeroes.layoutManager = LinearLayoutManager(this)
+                rvCats.layoutManager = LinearLayoutManager(this)
             }
             R.id.action_grid -> {
-                rvHeroes.layoutManager = GridLayoutManager(this, 2)
+                rvCats.layoutManager = GridLayoutManager(this, 2)
             }
             R.id.about_page -> {
                 val moveIntent =Intent(this@MainActivity, AboutMe::class.java)
@@ -63,9 +63,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showRecyclerList() {
-        rvHeroes.layoutManager = LinearLayoutManager(this)
+        rvCats.layoutManager = LinearLayoutManager(this)
         val listCatAdapter = ListCatAdapter(list)
-        rvHeroes.adapter = listCatAdapter
+        rvCats.adapter = listCatAdapter
 
         listCatAdapter.setOnItemClickCallback(object : ListCatAdapter.OnItemClickCallback {
             override fun onItemClicked(data: Cat) {
